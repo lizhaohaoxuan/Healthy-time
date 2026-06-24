@@ -4,4 +4,5 @@
 ## How to use? #
 ### 1.Config it ###
 Open **.config** file, then write the times like 11:45.
+
 *Tips: each row should contain only a single time instance.*
